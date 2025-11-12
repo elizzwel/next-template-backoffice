@@ -89,3 +89,6 @@ export default function Table({ columns, data, onEdit, onDelete }: TableProps) {
 
 
 
+
+
+
